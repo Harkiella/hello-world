@@ -1,5 +1,6 @@
 # hello-world
 New Repository
 
-I love doing ART for my hobby
-Am from Seychelles
+
+I am from a beautiful Tropical Island namely Seychelles. 
+I like the warm sandy beaches and the freah breeze.
